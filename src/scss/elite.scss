@@ -30,3 +30,7 @@
 @import "layout";
 @import "sections";
 @import "print";
+
+tr.skill > td.cell-progress:first-child {
+  opacity: 0;
+}

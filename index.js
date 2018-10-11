@@ -12,9 +12,9 @@ Swag.registerHelpers(handlebars)
 handlebars.registerHelper({
   formatDate: function (date) {
     if (typeof date === 'undefined') {
-      return 'now'
+      return 'heute'
     }
-    return moment(date).format('MMM YYYY')
+    return moment(date).locale('de').format('MMM YYYY')
   },
   dateDiff: function (startDate, endDate) {
     let text = ''
@@ -37,7 +37,7 @@ handlebars.registerHelper({
     return text
   },
   dateAgo: function (date) {
-    return moment(date, 'YYYY-MM-DD').fromNow()
+    return moment(date, 'YYYY-MM-DD').locale('de').fromNow()
   },
   removeSchema: function (url) {
     return url.replace(/^.*:\/\//i, '')
