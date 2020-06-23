@@ -1,0 +1,325 @@
+{
+    "basics": {
+        "name": "Carsten Lamm",
+        "label": "Fullstack Software Engineer",
+        "picture": "https://raw.githubusercontent.com/FQ400/me/master/assets/IMG_1294_small.jpg",
+        "email": "carstenlamm@gmail.com",
+        "phone": "0151 / 72 72 69 52",
+        "website": "",
+        "summary": "<p>Carsten Lamm ist ein Fullstack-Developer mit Spezialisierung auf Frontend-Architekturen/Javascript. Er hat Erfahrung in der Leitung kleiner Dev-Teams (2-5) und hilft diesen optimale Prozesse für die Entwicklung nachhaltiger Software einzuführen.</p>",
+        "location": {
+            "address": "",
+            "postalCode": "",
+            "city": "München,",
+            "region": "",
+            "countryCode": "DE"
+        },
+        "profiles": [
+            {
+              "network": "Twitter",
+              "username": "FQ400",
+              "url": "https://twitter.com/FQ400"
+            },
+            {
+                "network": "Xing",
+                "username": "Carsten Lamm",
+                "url": "https://xing.com/profile/Carsten_Lamm"
+            },
+            {
+                "network": "Github",
+                "username": "FQ400",
+                "url": "https://github.com/FQ400"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Unternehmen in der Filmbranche",
+            "position": "Consultant - Software Engineering",
+            "startDate": "2018-09-15",
+            "summary": "<ul><li>Interne Weiterentwicklung einer großen Ruby on Rails Applikation</li><li>Anbindung von Partner-Systemen mit verschiedenen APIs</li><li>Dokumentation und Tests von System und Code</li></ul>",
+            "highlights": [
+                "Ruby on Rails",
+                "Rspec",
+                "Golang",
+                "Javascript",
+                "HTML",
+                "CSS",
+                "Microservices",
+                "Docker"
+            ]
+        },
+        {
+            "company": "kontextR",
+            "position": "CTO",
+            "website": "https://kontextr.com",
+            "startDate": "2014-11-01",
+            "summary": "<ul><li>KontextR bietet eine ganzheitliche Softwarelösung für Verlage zur Erhöhung der Online-Reichweite.</li><li>Konzeption und Umsetzung einer Microservice-Architektur auf Google Cloud Platform</li><li>Kostenoptimierung der SaaS-Infrastruktur</li><li>Führung des Development-Teams (bis 5 Personen)</li><li>Steuerung von Software-Projekten über externe Dienstleister</li><li>Browser Extension Entwicklung</li><li>WordPress Plugins Entwicklung</li></ul>",
+            "highlights": [
+                "Inferno",
+                "Javascript",
+                "Ruby on Rails",
+                "Python",
+                "Golang",
+                "Microservices",
+                "Kubernetes",
+                "Jest",
+                "Webpack",
+                "Jenkins",
+                "Tracking",
+                "Chrome Extensions",
+                "WordPress",
+                "PHP",
+                "Cloud Function",
+                "Tracking"
+            ]
+        },
+        {
+            "company": "HolidayCheck AG",
+            "position": "Software Engineer",
+            "website": "https://www.holidaycheck.de/",
+            "startDate": "2015-05-01",
+            "endDate": "2017-01-01",
+            "summary": "<ul><li>Die HolidayCheck AG ist Betreiber des größten deutschsprachigen Hotelbewertungsportals und bietet im Internet Informationen und Buchungsmöglichkeiten für Reisen und Urlaub.</li><li>Modernisierung von Portalseiten in crossfunktionalen Teams</li></ul> ",
+            "highlights": [
+                "Javascript",
+                "React",
+                "Enzyme",
+                "Node.js",
+                "Webpack",
+                "TDD",
+                "Testing",
+                "Galen Framework",
+                "Mocha",
+                "Software Crafting",
+                "Scrum",
+                "Pair-Programming",
+                "Scala",
+                "Functional Programming",
+                "Tracking"
+            ]
+        },
+        {
+            "company": "Carpooling",
+            "position": "Senior Software Engineer",
+            "startDate": "2014-05-01",
+            "endDate": "2015-03-01",
+            "summary": "<ul><li>Carpooling war ein internationales Unternehmen, das in Deutschland die Website <i>mitfahrgelegenheit.de</i> betrieb.</li><li>Umsetzung des Frontends und Anbindung einer REST-API mit AngularJS</li><li>Integration von Frontend-Tests</li><li>Minimierung des Kommunikationsdefizits zwischen Backend- und Frontend-Entwicklern</li></ul>",
+            "highlights": [
+                "PHP",
+                "Javascript",
+                "HTML",
+                "CSS",
+                "AngularJS",
+                "REST",
+								"HATEAOS",
+								"Gulp Build",
+								"Code Reviews",
+                "Refactoring",
+                "Pair-Programming",
+								"Testing",
+								"Karma",
+								"Jasmine"
+            ]
+        },
+        {
+            "company": "FriendScout24 GmbH",
+            "position": "Software Developer",
+            "startDate": "2013-04-01",
+            "endDate": "2014-03-01",
+            "summary": "<ul><li>Mit einer Million aktiven Usern im Monat war FriendScout24 das Partnerportal Nr.1 in der DACH-Region. FriendScout24 gehörte zur Scout24-Gruppe, dem führenden Anbieter von Online-Marktplätzen in Europa.</li><li>Konzeption und Umsetzung einer Facebook-App</li><li>Anbindung eines Legacy-Systems</li></ul>",
+            "highlights": [
+                "HAML",
+                "SCSS",
+								"Javascript",
+								"CoffeeScript",
+								"AngularJS",
+                "REST",
+								"Redis",
+								"Facebook SDK",
+								"Ruby on Rails",
+								"Kanban",
+                "Tracking"
+            ]
+        },
+        {
+            "company": "buddybrand GmbH",
+            "position": "Developer",
+            "startDate": "2012-02-01",
+            "endDate": "2013-03-01",
+            "summary": "<ul><li>Buddybrand ist eine Social Media Agentur aus Berlin, die internationale Unternehmen bei ihrer Markenkommunikation unterstützt.</li><li>Weiterentwicklung der Social-App <i>uLikeMe</i></li><li>Konzeption und Umsetzung eines Matching-Algorithmus</li></ul>",
+            "highlights": [
+                "HAML",
+                "SCSS",
+                "jQuery",
+                "Ruby on Rails 3",
+                "MongoDB",
+                "Scrum",
+                "Kanban",
+                "Tracking"
+            ]
+        },
+        {
+            "company": "MyMobai GmbH",
+            "position": "Web-Entwickler",
+            "startDate": "2011-02-01",
+            "endDate": "2011-12-31",
+            "summary": "<ul><li>Die MyMobai GmbH betrieb eine Plattform für mobiles standortbasiertes Couponing.</li><li>Entwicklung eines Webclients zum Einlösen standortabhängiger Coupons</li></ul>",
+            "highlights": [
+                "HAML",
+                "SCSS",
+                "MooTools",
+                "Ruby on Rails 3",
+                "Geolocation API"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "HTWK Leipzig",
+            "area": "Medieninformatik",
+            "studyType": "Master of Science",
+            "startDate": "2007-10-01",
+            "endDate": "2011-02-01",
+            "gpa": "",
+            "courses": [
+            ]
+        },
+        {
+            "institution": "HTWK Leipzig",
+            "area": "Medieninformatik",
+            "studyType": "Bachelor of Science",
+            "startDate": "2004-10-01",
+            "endDate": "2007-10-01"
+        }
+    ],
+    "skills": [
+        {
+            "name": "HTML",
+            "level": "4",
+            "keywords": [
+            ]
+        },
+        {
+            "name": "CSS",
+            "level": "4",
+            "keywords": [
+            ]
+        },
+        {
+            "name": "SVG",
+            "level": "3",
+            "keywords": [
+            ]
+        },
+        {
+            "name": "DOM",
+            "level": "3",
+            "keywords": [
+            ]
+        },
+        {
+            "name": "  ",
+            "keywords": [
+            ]
+        },
+        {
+            "name": "Javascript",
+            "level": "5",
+            "keywords": [
+            ]
+        },
+        {
+            "name": "React",
+            "level": "4",
+            "keywords": [
+            ]
+        },
+        {
+            "name": "Inferno",
+            "level": "4",
+            "keywords": [
+            ]
+        },
+        {
+            "name": "MobX",
+            "level": "3",
+            "keywords": [
+            ]
+        },
+        {
+            "name": "Flux",
+            "level": "3",
+            "keywords": [
+            ]
+        },
+        {
+            "name": "AngularJS",
+            "level": "2",
+            "keywords": [
+            ]
+        },
+        {
+            "name": "  ",
+            "keywords": [
+            ]
+        },
+        {
+            "name": "Node.js",
+            "level": "4",
+            "keywords": [
+            ]
+        },
+        {
+            "name": "Ruby",
+            "level": "3",
+            "keywords": [
+            ]
+        },
+        {
+            "name": "Python",
+            "level": "3",
+            "keywords": [
+            ]
+        },
+        {
+            "name": "Golang",
+            "level": "2",
+            "keywords": [
+            ]
+        },
+        {
+            "name": "Java",
+            "level": "1",
+            "keywords": [
+            ]
+        },
+        {
+            "name": "  ",
+            "keywords": [
+            ]
+        },
+        {
+            "name": "TDD",
+            "level": "4",
+            "keywords": [
+            ]
+        },
+        {
+            "name": "git",
+            "level": "4",
+            "keywords": [
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "name": "de",
+            "level": "Muttersprache"
+        },
+        {
+            "name": "gb",
+            "level": "verhandlungssicher"
+        }
+    ]
+}
