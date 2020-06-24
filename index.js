@@ -12,9 +12,9 @@ Swag.registerHelpers(handlebars)
 handlebars.registerHelper({
   formatDate: function (date) {
     if (typeof date === 'undefined') {
-      return 'heute'
+      return 'now'
     }
-    return moment(date).locale('de').format('MMM YYYY')
+    return moment(date).format('MMM YYYY')
   },
   dateDiff: function (startDate, endDate) {
     let text = ''

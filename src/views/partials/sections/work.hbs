@@ -1,6 +1,6 @@
 {{#if resume.work.length}}
     <section class="section-work">
-        {{> components/title icon='briefcase' title='Erfahrung'}}
+        {{> components/title icon='briefcase' title='Experience'}}
 
         {{#each resume.work}}
             <div class="card">
@@ -10,7 +10,7 @@
                             {{formatDate startDate}} - {{formatDate endDate}} ({{dateDiff startDate endDate}})
                         </span>
                         {{#unless endDate}}
-                            <span class="badge badge-success">Aktuell</span>
+                            <span class="badge badge-success">current</span>
                         {{/unless}}
                     </div>
                 {{/if}}
