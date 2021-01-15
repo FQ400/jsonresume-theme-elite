@@ -5,7 +5,7 @@
         "picture": "https://raw.githubusercontent.com/FQ400/me/master/assets/IMG_1294_small.jpg",
         "email": "carstenlamm@protonmail.com",
         "phone": "0151 / 72 72 69 52",
-        "website": "",
+        "website": "https://dev-coach.me",
         "summary": "<p>Carsten is a fullstack software engineer with focus on frontend architecture/javascript. He has experience in managing small teams (1-3) and helps them introducing optimal processes to create sustainable software.</p>",
         "location": {
             "address": "",
@@ -34,20 +34,22 @@
     },
     "work": [
         {
-            "company": "Company operating in the movie sector",
+            "company": "Spotlight Verlag in Munich",
             "position": "Consultant - Software Engineering",
-            "startDate": "2018-09-15",
-            "summary": "<ul><li>Developing further a large Ruby on Rails application</li><li>Connecting APIs of partner systems</li><li>Documenting and testing of code</li></ul>",
+            "startDate": "2020-10-01",
+            "endData":"2021-03-31",
+            "website": "https://app.zeit-sprachen.de/user/login",
+            "summary": "<ul><li>Developing a web client to deliver documents from a Content-API (Drupal)</li><li>Connecting Oxford Dictionary API for intext usage</li><li>Creating maintainable/testable code through constant refactoring</li><li>Introducing future-prove client architecture</li><li>Introduce backend landscape for content personalization</li></ul>",
             "highlights": [
-                "Ruby on Rails",
-                "Rspec",
-                "Golang",
                 "Javascript",
-                "HTML",
-                "CSS",
-                "Microservices",
-                "Docker",
-                "Git"
+                "React",
+                "RxJs",
+                "Jest",
+                "Google Firebase",
+                "Git",
+                "Netlify",
+                "GitFlow",
+                "Docker"
             ]
         },
         {
@@ -75,6 +77,24 @@
                 "PHP",
                 "Cloud Function",
                 "Tracking"
+            ]
+        },
+        {
+            "company": "Company operating in the movie sector",
+            "position": "Consultant - Software Engineering",
+            "startDate": "2018-09-15",
+            "endData":"2020-11-30",
+            "summary": "<ul><li>Developing further a large Ruby on Rails application</li><li>Connecting APIs of partner systems</li><li>Documenting and testing of code</li></ul>",
+            "highlights": [
+                "Ruby on Rails",
+                "Rspec",
+                "Golang",
+                "Javascript",
+                "HTML",
+                "CSS",
+                "Microservices",
+                "Docker",
+                "Git"
             ]
         },
         {
